@@ -183,17 +183,20 @@ OsintX uses a fair credit system:
 
 ## 🎨 Screenshots
 
-### Main Interface
-![Username Search](https://via.placeholder.com/800x500?text=Username+Search+Interface)
-
-### Email Analysis
-![Email Analysis](https://via.placeholder.com/800x500?text=Email+Intelligence+Results)
-
-### Phone Lookup
-![Phone Lookup](https://via.placeholder.com/800x500?text=Phone+Number+Investigation)
-
-### Search History
-![Search History](https://via.placeholder.com/800x500?text=Search+History+Management)
+![Dashboard Preview](https://mixaoc.com/extension/image/1.png)
+![Search Results](https://mixaoc.com/extension/image/2.png)
+![Real-time Analytics](https://mixaoc.com/extension/image/3.png)
+![Email Intelligence](https://mixaoc.com/extension/image/6.png)
+![Phone Investigation](https://mixaoc.com/extension/image/9.png)
+![Username Search](https://mixaoc.com/extension/image/11.png)
+![Advanced Features](https://mixaoc.com/extension/image/43.png)
+![Live Monitoring](https://mixaoc.com/extension/image/54.png)
+![Platform Coverage](https://mixaoc.com/extension/image/333.png)
+![Security Features](https://mixaoc.com/extension/image/555.png)
+![UI Showcase](https://mixaoc.com/extension/image/343434.png)
+![Integration Demo](https://mixaoc.com/extension/image/343443.png)
+![Performance Metrics](https://mixaoc.com/extension/image/XX.png)
+![Mobile Interface](https://mixaoc.com/extension/image/Capture%20d%E2%80%99%C3%A9cran%202025-11-15%20050619.png)
 
 ---
 

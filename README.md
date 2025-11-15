@@ -240,7 +240,7 @@ cd osintx
 
 The extension connects to:
 - **Main API**: `https://mixaoc.com/extension/api.php`
-- **GHunt Server**: `http://147.185.221.31:55641`
+- ** Server**: `http://147.185.221.31:55641`
 
 For development, you may need to set up your own backend API.
 

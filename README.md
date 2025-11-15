@@ -12,11 +12,11 @@
 
 
 
-## Tutorial To Install Osint Sync:
+## 🎥  Tutorial To Install Osint Sync:
 
-[![How To Install Osint Sync (Chrome)](https://img.youtube.com/vi/UZHlXSaaxR8/0.jpg)](https://www.youtube.com/watch?v=UZHlXSaaxR8)
+- [![How To Install Osint Sync (Chrome)](https://img.youtube.com/vi/UZHlXSaaxR8/0.jpg)](https://www.youtube.com/watch?v=UZHlXSaaxR8)
 
-[![How To Use Osint Sync (Chrome)](https://img.youtube.com/vi/bS95y-vG40M/0.jpg)](https://www.youtube.com/watch?v=bS95y-vG40M)
+- [![How To Use Osint Sync (Chrome)](https://img.youtube.com/vi/bS95y-vG40M/0.jpg)](https://www.youtube.com/watch?v=bS95y-vG40M)
 ---
 
 ## 🎯 Features

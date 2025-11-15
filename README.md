@@ -8,7 +8,7 @@
 
 **osint-sync** is a powerful browser extension for Open Source Intelligence (OSINT) research. Search usernames, emails, and phone numbers across 20+ platforms with integrated access to premium OSINT tools like GHunt, IntelX, Epieos, and OSINT Industries.
 
-![osint-sync Interface](https://mixaoc.com/lib/mixaoc.png)
+
 
 
 
@@ -119,7 +119,7 @@ Powered by industry-leading OSINT APIs:
 ---
 
 ## 📖 How to Use
-
+![osint-sync Interface](https://mixaoc.com/lib/mixaoc.png)
 ### Basic Search
 1. Click the osint-sync icon in your browser toolbar
 2. Select the search type (Username, Email, or Phone)

@@ -1,13 +1,13 @@
-# 🔍 OsintX - Professional OSINT Browser Extension
+# 🔍 osint-sync - Professional OSINT Browser Extension
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-blue.svg)](https://chrome.google.com/webstore)
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-orange.svg)](https://addons.mozilla.org/)
 [![Version](https://img.shields.io/badge/version-1.1-green.svg)]()
 
-**OsintX** is a powerful browser extension for Open Source Intelligence (OSINT) research. Search usernames, emails, and phone numbers across 20+ platforms with integrated access to premium OSINT tools like GHunt, IntelX, Epieos, and OSINT Industries.
+**osint-sync** is a powerful browser extension for Open Source Intelligence (OSINT) research. Search usernames, emails, and phone numbers across 20+ platforms with integrated access to premium OSINT tools like GHunt, IntelX, Epieos, and OSINT Industries.
 
-![OsintX Interface](https://mixaoc.com/lib/mixaoc.png)
+![osint-sync Interface](https://mixaoc.com/lib/mixaoc.png)
 
 ---
 
@@ -79,7 +79,7 @@ Powered by industry-leading OSINT APIs:
 #### For Chrome/Edge:
 ```bash
 1. Download or clone this repository
-   git clone https://github.com/mixaoc/osintx.git
+   git clone https://github.com/mixaoc/osint-sync.git
 
 2. Open Chrome/Edge and go to chrome://extensions/
 
@@ -95,7 +95,7 @@ Powered by industry-leading OSINT APIs:
 #### For Firefox:
 ```bash
 1. Download or clone this repository
-   git clone https://github.com/mixaoc/osintx.git
+   git clone https://github.com/mixaoc/osint-sync.git
 
 2. Open Firefox and go to about:debugging
 
@@ -113,7 +113,7 @@ Powered by industry-leading OSINT APIs:
 ## 📖 How to Use
 
 ### Basic Search
-1. Click the OsintX icon in your browser toolbar
+1. Click the osint-sync icon in your browser toolbar
 2. Select the search type (Username, Email, or Phone)
 3. Enter your search query
 4. Click "Search"
@@ -122,7 +122,7 @@ Powered by industry-leading OSINT APIs:
 ### Context Menu Search
 1. Select any text on a webpage (username, email, or phone number)
 2. Right-click on the selected text
-3. Choose "Search with OsintX"
+3. Choose "Search with osint-sync"
 4. Results appear instantly in the popup
 
 ### Managing History
@@ -145,13 +145,13 @@ We take your privacy seriously:
 - ✅ **GDPR Compliant**: Full compliance with GDPR and CCPA
 - ✅ **Transparent**: Open-source and auditable code
 
-**Privacy Policy**: [https://mixaoc.com/extension/privacy-policy.php](https://mixaoc.com/extension/confidential.php)
+**Privacy Policy**: [https://mixaoc.com/confidential.php]([https://mixaoc.com/confidential.php))
 
 ---
 
 ## 🌟 Integrated OSINT APIs
 
-OsintX provides access to premium OSINT tools:
+osint-sync provides access to premium OSINT tools:
 
 | API | Description | Use Case |
 |-----|-------------|----------|
@@ -170,7 +170,7 @@ OsintX provides access to premium OSINT tools:
 
 ## 💎 Credit System
 
-OsintX uses a fair credit system:
+osint-sync uses a fair credit system:
 - Each search costs **1 credit**
 - New users receive **free credits** upon registration
 - Affordable credit packages available
@@ -209,7 +209,7 @@ OsintX uses a fair credit system:
 
 ### Project Structure
 ```
-osintx/
+osint-sync/
 │
 ├── manifest.json           # Extension manifest (Chrome/Firefox)
 ├── popup.html             # Main popup interface
@@ -230,10 +230,10 @@ osintx/
 
 ```bash
 # Clone the repository
-git clone https://github.com/mixaoc/osintx.git
+git clone https://github.com/mixaoc/osint-sync.git
 
 # Navigate to directory
-cd osintx
+cd osint-sync
 
 # No build step required - pure HTML/CSS/JS!
 # Just load the extension in your browser (see Installation)
@@ -272,15 +272,15 @@ Contributions are welcome! Here's how you can help:
 
 Found a bug or have an idea? We'd love to hear from you!
 
-- **Bug Reports**: [Open an issue](https://github.com/mixaoc/osintx/issues) with detailed steps to reproduce
-- **Feature Requests**: [Open an issue](https://github.com/mixaoc/osintx/issues) describing the feature and use case
+- **Bug Reports**: [Open an issue](https://github.com/mixaoc/osint-sync/issues) with detailed steps to reproduce
+- **Feature Requests**: [Open an issue](https://github.com/mixaoc/osint-sync/issues) describing the feature and use case
 - **Security Issues**: Email directly to `admin@mixaoc.com` (do not post publicly)
 
 ---
 
 ## ⚖️ Legal & Ethical Use
 
-**OsintX is designed for legal and ethical OSINT research only.**
+**osint-sync is designed for legal and ethical OSINT research only.**
 
 ### ✅ Acceptable Use:
 - Security research and penetration testing
@@ -349,7 +349,7 @@ SOFTWARE.
 Need help? Have questions?
 
 - 📧 **Email**: admin@mixaoc.com
-- 💬 **GitHub Issues**: [Open an issue](https://github.com/mixaoc/osintx/issues)
+- 💬 **GitHub Issues**: [Open an issue](https://github.com/mixaoc/osint-sync/issues)
 - 🌐 **Website**: [mixaoc.com](https://mixaoc.com)
 
 **Response Time**: We aim to respond within 24-48 hours.
@@ -395,18 +395,18 @@ Special thanks to:
 
 ## ⭐ Star History
 
-If you find OsintX useful, please consider giving it a star! ⭐
+If you find osint-sync useful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mixaoc/osintx&type=Date)](https://star-history.com/#mixaoc/osintx&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mixaoc/osint-sync&type=Date)](https://star-history.com/#mixaoc/osint-sync&Date)
 
 ---
 
 ## 📊 Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/mixaoc/osintx?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mixaoc/osintx?style=social)
-![GitHub issues](https://img.shields.io/github/issues/mixaoc/osintx)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mixaoc/osintx)
+![GitHub stars](https://img.shields.io/github/stars/mixaoc/osint-sync?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mixaoc/osint-sync?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mixaoc/osint-sync)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mixaoc/osint-sync)
 
 ---
 
@@ -416,6 +416,6 @@ If you find OsintX useful, please consider giving it a star! ⭐
 
 **Made with ❤️ by [@mixaoc](https://github.com/mixaoc)**
 
-[⬆ Back to Top](#-osintx---professional-osint-browser-extension)
+[⬆ Back to Top](#-osint-sync---professional-osint-browser-extension)
 
 </div>

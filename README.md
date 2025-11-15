@@ -145,7 +145,7 @@ We take your privacy seriously:
 - ✅ **GDPR Compliant**: Full compliance with GDPR and CCPA
 - ✅ **Transparent**: Open-source and auditable code
 
-**Privacy Policy**: [https://mixaoc.com/extension/privacy-policy.php](https://mixaoc.com/extension/privacy-policy.php)
+**Privacy Policy**: [https://mixaoc.com/extension/privacy-policy.php](https://mixaoc.com/extension/confidential.php)
 
 ---
 

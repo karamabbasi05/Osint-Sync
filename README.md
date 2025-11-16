@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/badge/version-1.1-green.svg)]()
 
 A powerful browser extension for Open Source Intelligence (OSINT) research. Search usernames, emails, and phone numbers across 20+ platforms with integrated access to premium OSINT tools like GHunt, IntelX, Epieos, and OSINT Industries.
-![OSINT Sync Banner](https://chatgpt.com/backend-api/estuary/content?id=file_00000000ca5071f4813dba69e7fadb0d&ts=489804&p=fs&cid=1&sig=5b4b512c76d698b245d96f5522af13e4784282edcd281bec98543dd773abe8bc&v=0)
+![OSINT Sync Banner](https://mixaoc.com/extension/dd.png)
 
 ---
 

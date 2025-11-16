@@ -1,35 +1,24 @@
-# 🔍 osint-sync - Professional OSINT Browser Extension
-[![OsintSync](https://camo.githubusercontent.com/d4318ebfb8471d3b3ea630f8b0a82cdc9e32fb6b5474f06b553c59a60c94a2d2/68747470733a2f2f6d6978616f632e636f6d2f657874656e73696f6e2f696d6167652f3334333433342e706e67)]()
+# osint-sync - Professional OSINT Browser Extension
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-blue.svg)](https://chrome.google.com/webstore)
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-orange.svg)](https://addons.mozilla.org/)
 [![Version](https://img.shields.io/badge/version-1.1-green.svg)]()
 
-**osint-sync** is a powerful browser extension for Open Source Intelligence (OSINT) research. Search usernames, emails, and phone numbers across 20+ platforms with integrated access to premium OSINT tools like GHunt, IntelX, Epieos, and OSINT Industries.
+A powerful browser extension for Open Source Intelligence (OSINT) research. Search usernames, emails, and phone numbers across 20+ platforms with integrated access to premium OSINT tools like GHunt, IntelX, Epieos, and OSINT Industries.
 
-
-
-
-
-## 🎥  Tutorial To Install Osint Sync:
-
-- [![How To Install Osint Sync (Chrome)](https://img.youtube.com/vi/UZHlXSaaxR8/0.jpg)](https://www.youtube.com/watch?v=UZHlXSaaxR8) (How To Install (Chrome)
-
-- [![How To Use Osint Sync (Chrome)](https://img.youtube.com/vi/bS95y-vG40M/0.jpg)](https://www.youtube.com/watch?v=bS95y-vG40M)  (How To Use (Chrome)
 ---
 
-## 🎯 Features
+## Features
 
-### 🔎 Username Search
+### Username Search
 Search any username across multiple platforms instantly:
-- **Social Media**: Instagram, Twitter/X, Facebook, YouTube, TikTok, Snapchat, Threads, Reddit
-- **Developer Platforms**: GitHub, GitLab  
-- **Gaming**: Minecraft, Steam, Xbox, Twitch
-- **Professional**: Gravatar, LinkedIn (via email)
-- **And more...**
+- Social Media: Instagram, Twitter/X, Facebook, YouTube, TikTok, Snapchat, Threads, Reddit
+- Developer Platforms: GitHub, GitLab  
+- Gaming: Minecraft, Steam, Xbox, Twitch
+- Professional: Gravatar, LinkedIn (via email)
 
-### 📧 Advanced Email Intelligence
+### Advanced Email Intelligence
 Powered by industry-leading OSINT APIs:
 - **GHunt**: Google account analysis, profile pictures, Maps activity, YouTube data
 - **Epieos**: Email breach detection and data leak monitoring
@@ -38,27 +27,27 @@ Powered by industry-leading OSINT APIs:
 - **Holehe**: Social media account detection linked to emails
 - Email validation and verification
 
-### 📱 Phone Number Investigation
+### Phone Number Investigation
 - WhatsApp presence verification
 - Carrier and location information
 - Social media account detection
 - Number validation and formatting
 - International support (200+ countries)
 
-### 📜 Search History & Management
+### Search History & Management
 - Track all your searches in one place
 - Export results for reports
 - Clear history anytime
 - Organized by date and type
 
-### 🖱️ Context Menu Integration
+### Context Menu Integration
 - Right-click any selected text on webpages
 - Instant search without copy-paste
 - Seamless OSINT workflow
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **APIs**: REST API integration with multiple OSINT platforms
@@ -68,19 +57,19 @@ Powered by industry-leading OSINT APIs:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Chrome Web Store (Recommended)
 1. Visit [Chrome Web Store](#) (link coming soon)
 2. Click "Add to Chrome"
 3. Pin the extension to your toolbar
-4. Create your account and start searching!
+4. Create your account and start searching
 
 ### Firefox Add-ons
 1. Visit [Firefox Add-ons](#) (link coming soon)
 2. Click "Add to Firefox"
 3. Pin the extension to your toolbar
-4. Create your account and start searching!
+4. Create your account and start searching
 
 ### Manual Installation (Development)
 
@@ -97,7 +86,7 @@ Powered by industry-leading OSINT APIs:
 
 5. Select the extension folder
 
-6. The extension is now installed!
+6. The extension is now installed
 ```
 
 #### For Firefox:
@@ -113,13 +102,13 @@ Powered by industry-leading OSINT APIs:
 
 5. Select the manifest.json file
 
-6. The extension is now installed!
+6. The extension is now installed
 ```
 
 ---
 
-## 📖 How to Use
-![osint-sync Interface](https://mixaoc.com/lib/mixaoc.png)
+## How to Use
+
 ### Basic Search
 1. Click the osint-sync icon in your browser toolbar
 2. Select the search type (Username, Email, or Phone)
@@ -141,23 +130,23 @@ Powered by industry-leading OSINT APIs:
 
 ---
 
-## 🔐 Privacy & Security
+## Privacy & Security
 
 We take your privacy seriously:
 
-- ✅ **No Data Selling**: We never sell your data to third parties
-- ✅ **No Tracking**: No advertising or behavioral tracking
-- ✅ **Encrypted**: All passwords are hashed with bcrypt
-- ✅ **HTTPS Only**: All API communications are encrypted
-- ✅ **Local Storage**: Data stored locally on your device
-- ✅ **GDPR Compliant**: Full compliance with GDPR and CCPA
-- ✅ **Transparent**: Open-source and auditable code
+- No data selling to third parties
+- No advertising or behavioral tracking
+- All passwords are hashed with bcrypt
+- All API communications are encrypted (HTTPS only)
+- Data stored locally on your device
+- GDPR and CCPA compliant
+- Open-source and auditable code
 
-**Privacy Policy**: [https://mixaoc.com/confidential.php]([https://mixaoc.com/confidential.php))
+**Privacy Policy**: [https://mixaoc.com/confidential.php](https://mixaoc.com/confidential.php)
 
 ---
 
-## 🌟 Integrated OSINT APIs
+## Integrated OSINT APIs
 
 osint-sync provides access to premium OSINT tools:
 
@@ -176,39 +165,20 @@ osint-sync provides access to premium OSINT tools:
 
 ---
 
-## 💎 Credit System
+## Credit System
 
 osint-sync uses a fair credit system:
-- Each search costs **1 credit**
-- New users receive **free credits** upon registration
+- Each search costs 1 credit
+- New users receive free credits upon registration
 - Affordable credit packages available
-- Credits **never expire**
+- Credits never expire
 - Prevents abuse while providing generous free usage
 
 **Purchase Credits**: Available in the extension's "Credits" tab
 
 ---
 
-## 🎨 Screenshots
-
-![Dashboard Preview](https://mixaoc.com/extension/image/1.png)
-![Search Results](https://mixaoc.com/extension/image/2.png)
-![Real-time Analytics](https://mixaoc.com/extension/image/3.png)
-![Email Intelligence](https://mixaoc.com/extension/image/6.png)
-![Phone Investigation](https://mixaoc.com/extension/image/9.png)
-![Username Search](https://mixaoc.com/extension/image/11.png)
-![Advanced Features](https://mixaoc.com/extension/image/43.png)
-![Live Monitoring](https://mixaoc.com/extension/image/54.png)
-![Platform Coverage](https://mixaoc.com/extension/image/333.png)
-![Security Features](https://mixaoc.com/extension/image/555.png)
-![UI Showcase](https://mixaoc.com/extension/image/343434.png)
-![Integration Demo](https://mixaoc.com/extension/image/343443.png)
-![Performance Metrics](https://mixaoc.com/extension/image/XX.png)
-![Mobile Interface](https://mixaoc.com/extension/image/Capture%20d%E2%80%99%C3%A9cran%202025-11-15%20050619.png)
-
----
-
-## 🔧 Development
+## Development
 
 ### Prerequisites
 - Node.js (optional, for development tools)
@@ -223,7 +193,7 @@ osint-sync/
 ├── popup.html             # Main popup interface
 ├── popup.js               # Popup logic and API calls
 ├── background.js          # Background service worker
-├── styles.css             # Cyberpunk UI styling
+├── styles.css             # UI styling
 ├── privacy-policy.php     # Privacy policy page
 │
 ├── icons/                 # Extension icons
@@ -243,7 +213,7 @@ git clone https://github.com/mixaoc/osint-sync.git
 # Navigate to directory
 cd osint-sync
 
-# No build step required - pure HTML/CSS/JS!
+# No build step required - pure HTML/CSS/JS
 # Just load the extension in your browser (see Installation)
 ```
 
@@ -251,21 +221,21 @@ cd osint-sync
 
 The extension connects to:
 - **Main API**: `https://mixaoc.com/extension/api.php`
-- ** Server**: `http://147.185.221.31:55641`
+- **Server**: `http://147.185.221.31:55641`
 
 For development, you may need to set up your own backend API.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ### Contribution Guidelines
 - Follow existing code style
@@ -276,7 +246,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 🐛 Bug Reports & Feature Requests
+## Bug Reports & Feature Requests
 
 Found a bug or have an idea? We'd love to hear from you!
 
@@ -286,11 +256,11 @@ Found a bug or have an idea? We'd love to hear from you!
 
 ---
 
-## ⚖️ Legal & Ethical Use
+## Legal & Ethical Use
 
 **osint-sync is designed for legal and ethical OSINT research only.**
 
-### ✅ Acceptable Use:
+### Acceptable Use:
 - Security research and penetration testing
 - Background checks for employment
 - Journalism and investigative reporting
@@ -299,7 +269,7 @@ Found a bug or have an idea? We'd love to hear from you!
 - Fraud detection and prevention
 - Missing persons investigations
 
-### ❌ Prohibited Use:
+### Prohibited Use:
 - Stalking, harassment, or threatening behavior
 - Identity theft or fraud
 - Unauthorized access to private accounts
@@ -311,7 +281,7 @@ Found a bug or have an idea? We'd love to hear from you!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -341,55 +311,55 @@ SOFTWARE.
 
 ---
 
-## 🌐 Links
+## Links
 
 - **Website**: [https://mixaoc.com](https://mixaoc.com)
 - **GitHub**: [https://github.com/mixaoc](https://github.com/mixaoc)
-- **Chrome Web Store**: [Coming Soon](#)
-- **Firefox Add-ons**: [Coming Soon](#)
+- **Chrome Web Store**: Coming Soon
+- **Firefox Add-ons**: Coming Soon
 - **Privacy Policy**: [https://mixaoc.com/extension/privacy-policy.php](https://mixaoc.com/extension/privacy-policy.php)
 - **Support Email**: admin@mixaoc.com
 
 ---
 
-## 📞 Support
+## Support
 
 Need help? Have questions?
 
-- 📧 **Email**: admin@mixaoc.com
-- 💬 **GitHub Issues**: [Open an issue](https://github.com/mixaoc/osint-sync/issues)
-- 🌐 **Website**: [mixaoc.com](https://mixaoc.com)
+- **Email**: admin@mixaoc.com
+- **GitHub Issues**: [Open an issue](https://github.com/mixaoc/osint-sync/issues)
+- **Website**: [mixaoc.com](https://mixaoc.com)
 
 **Response Time**: We aim to respond within 24-48 hours.
 
 ---
 
-## 🎯 Roadmap
+## Roadmap
 
 ### Version 1.2 (Coming Soon)
-- [ ] LinkedIn profile search integration
-- [ ] Advanced filtering and export options
-- [ ] Dark/Light theme toggle
-- [ ] Bulk search capability
-- [ ] API rate limit optimization
+- LinkedIn profile search integration
+- Advanced filtering and export options
+- Dark/Light theme toggle
+- Bulk search capability
+- API rate limit optimization
 
 ### Version 1.3 (Planned)
-- [ ] Discord account detection
-- [ ] Telegram username search
-- [ ] Image reverse search integration
-- [ ] PDF report generation
-- [ ] Browser bookmarks sync
+- Discord account detection
+- Telegram username search
+- Image reverse search integration
+- PDF report generation
+- Browser bookmarks sync
 
 ### Version 2.0 (Future)
-- [ ] Mobile app companion
-- [ ] Team collaboration features
-- [ ] Custom API integrations
-- [ ] Machine learning insights
-- [ ] Advanced data visualization
+- Mobile app companion
+- Team collaboration features
+- Custom API integrations
+- Machine learning insights
+- Advanced data visualization
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to:
 - **GHunt** - For excellent Google account OSINT capabilities
@@ -401,29 +371,48 @@ Special thanks to:
 
 ---
 
-## ⭐ Star History
+## Screenshots
 
-If you find osint-sync useful, please consider giving it a star! ⭐
+![osint-sync Interface](https://mixaoc.com/lib/mixaoc.png)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mixaoc/osint-sync&type=Date)](https://star-history.com/#mixaoc/osint-sync&Date)
+![Dashboard Preview](https://mixaoc.com/extension/image/1.png)
+
+![Search Results](https://mixaoc.com/extension/image/2.png)
+
+![Real-time Analytics](https://mixaoc.com/extension/image/3.png)
+
+![Email Intelligence](https://mixaoc.com/extension/image/6.png)
+
+![Phone Investigation](https://mixaoc.com/extension/image/9.png)
+
+![Username Search](https://mixaoc.com/extension/image/11.png)
+
+![Advanced Features](https://mixaoc.com/extension/image/43.png)
+
+![Live Monitoring](https://mixaoc.com/extension/image/54.png)
+
+![Platform Coverage](https://mixaoc.com/extension/image/333.png)
+
+![Security Features](https://mixaoc.com/extension/image/555.png)
+
+![UI Showcase](https://mixaoc.com/extension/image/343434.png)
+
+![Integration Demo](https://mixaoc.com/extension/image/343443.png)
+
+![Performance Metrics](https://mixaoc.com/extension/image/XX.png)
+
+![Mobile Interface](https://mixaoc.com/extension/image/Capture%20d%E2%80%99%C3%A9cran%202025-11-15%20050619.png)
 
 ---
 
-## 📊 Statistics
+## Video Tutorials
 
-![GitHub stars](https://img.shields.io/github/stars/mixaoc/osint-sync?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mixaoc/osint-sync?style=social)
-![GitHub issues](https://img.shields.io/github/issues/mixaoc/osint-sync)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/mixaoc/osint-sync)
+### Installation Guide
+[![How To Install Osint Sync (Chrome)](https://img.youtube.com/vi/UZHlXSaaxR8/0.jpg)](https://www.youtube.com/watch?v=UZHlXSaaxR8)
+
+### Usage Tutorial
+[![How To Use Osint Sync (Chrome)](https://img.youtube.com/vi/bS95y-vG40M/0.jpg)](https://www.youtube.com/watch?v=bS95y-vG40M)
 
 ---
 
-<div align="center">
-
-### 🔍 Search Smarter. Investigate Faster. Discover More.
-
-**Made with ❤️ by [@mixaoc](https://github.com/mixaoc)**
-
-[⬆ Back to Top](#-osint-sync---professional-osint-browser-extension)
-
-</div>
+**Made by [@mixaoc](https://github.com/mixaoc)**

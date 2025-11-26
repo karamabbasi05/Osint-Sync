@@ -3,7 +3,7 @@
 
 const MAIN_API_URL = 'https://mixaoc.com/extension/api.php';
 const API2_URL = 'https://mixaoc.com/extension/api2.php';
-const GHUNT_SERVER_URL = 'http://147.185.221.31:55641';
+const GHUNT_SERVER_URL = 'http://147.185.221.224:27261';
 
 let userCredits = 0;
 let currentPaymentId = null;

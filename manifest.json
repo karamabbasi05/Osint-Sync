@@ -2,8 +2,8 @@
 {
   "manifest_version": 3,
   "name": "Osint Sync",
-  "version": "1.2",
-  "description": "Professional OSINT extension for searching usernames & email  api intelx & osint osint industrie ",
+  "version": "1.3",
+  "description": "Professional OSINT extension for searching usernames & email  api intelx & osint iondustrie ",
   "action": {
     "default_popup": "popup.html",
     "default_title": "Osint Sync"
@@ -27,7 +27,7 @@
     "https://facebook.com/*",
     "https://youtube.com/*",
     "https://tiktok.com/*",
-    "http://147.185.221.31:55641/*"
+    "http://147.185.221.224:27261*"
   ],
   "background": {
     "service_worker": "background.js"

